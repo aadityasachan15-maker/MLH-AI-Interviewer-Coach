@@ -1,0 +1,6 @@
+{
+  "name": "FastAPI & GenAI Debugger & Playground",
+  "description": "Fix FastAPI 404 GET errors, syntax bugs, and test live /chat and /think endpoints with Google GenAI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
